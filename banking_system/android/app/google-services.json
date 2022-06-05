@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "987831963859",
+    "project_id": "parallel-project-fecbd",
+    "storage_bucket": "parallel-project-fecbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987831963859:android:5001c87017a6f392054426",
+        "android_client_info": {
+          "package_name": "com.example.banking_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987831963859-19gd55j3msrbpekl37qjqgdjhhq386m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY0u9A1boSiZSChwb1d7VPaoi0zi_cdAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987831963859-19gd55j3msrbpekl37qjqgdjhhq386m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
